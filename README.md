@@ -1,4 +1,4 @@
-# FingerDetection-GestureRecigniser-
+# FingerDetection-GestureRecogniser-
 Trained a deep neural network to detect finger counting. It can be used as gesture recognizer.
 
 This model used YoloV5 for classification and LabelImg for annotation tool. 
